@@ -1,5 +1,5 @@
 {
-  "name": "aspen-nav-item-mixin",
+  "name": "@aspen-elements/aspen-nav-item-mixin",
   "description": " * This mixin contains the code and methods required for navigation items.",
   "main": "aspen-nav-item-mixin.js",
   "dependencies": {
@@ -12,5 +12,27 @@
     "chai": "^4.2.0",
     "mocha": "^6.1.4",
     "wct-mocha": "^1.0.1"
-  }
+  },
+  "version": "0.5.0",
+  "directories": {
+    "test": "test"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/aspen-elements/aspen-nav-item-mixin.git"
+  },
+  "keywords": [
+    "web-components",
+    "aspen-components",
+    "mixin"
+  ],
+  "author": "Mark Fortner, Ishan Subedi, Marko Ignjatovic, Suyash Adhikary",
+  "license": "BSD-3-Clause",
+  "bugs": {
+    "url": "https://github.com/aspen-elements/aspen-nav-item-mixin/issues"
+  },
+  "homepage": "https://github.com/aspen-elements/aspen-nav-item-mixin#readme"
 }
